@@ -1,2 +1,2 @@
-# flatusjae.github.io
+# FlatusJae.github.io
 Ny first github webpage
